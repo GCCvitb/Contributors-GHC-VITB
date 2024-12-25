@@ -121,6 +121,3 @@ Thanks to all contributors who have participated so far:
 
 Let’s make this repository a fun and exciting place for learning and connecting. Happy contributing! 💻✨  
 
---- 
-
-What do you think about this version? Let me know if there are specific changes you'd like to see!
